@@ -35,7 +35,7 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 
 ## Dashboard
 
-![Sale Dashboard](image.png)!
+![Dashboard](Dashboard.png)!
 
 ---
 
